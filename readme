@@ -1,0 +1,11 @@
+
+# pyechart
+
+安装包
+
+中国地图
+$ pip install echarts-countries-pypkg
+$ pip install echarts-china-provinces-pypkg
+$ pip install echarts-china-cities-pypkg
+$ pip install echarts-china-counties-pypkg
+$ pip install echarts-china-misc-pypkg
